@@ -1,2 +1,3 @@
-# .github
-Dream-Powered-Media facer
+# Dream-Powered-Media
+
+**Dream-Powered-Media** - platform ahead of your mind
