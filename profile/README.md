@@ -1,12 +1,10 @@
 # Dream-Powered-Media
 
-**Dream-Powered-Media** - platform ahead of your mind
+**Dream-Powered-Media** - медиа сервис с внутренней оценкой контента
 
-
-### Simple Description
-
-A platform with the possibility of internal media evaluation within the framework of flexible community management
-
+- клиентская часть: https://github.com/Dream-Powered-Media/frontend
+- серверная часть: https://github.com/Dream-Powered-Media/backend
+- описание хранилища: https://github.com/Dream-Powered-Media/storage
 
 ### Founder
 
